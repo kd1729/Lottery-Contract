@@ -3,7 +3,7 @@ const Web3 = require("web3");
 const { abi, evm } = require("./compile");
 
 const provider = new HDWalletProvider(
-    "solution alcohol custom social excess festival desert judge arm coach horror corn",
+    "your 12 word mnemonic",
     "https://rinkeby.infura.io/v3/989fd50fdbe843248288caaf4bab85d8"
 );
 
